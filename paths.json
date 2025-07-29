@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/manoj-bootcamp/:/",
+    "/content/manoj-bootcamp/configuration:/.helix/config.json",
+    "/content/manoj-bootcamp/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/manoj-bootcamp/"
   ]
 }
