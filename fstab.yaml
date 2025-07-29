@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/singh201/manoj-bootcamp/main"
+    url: "https://author-p127526-e1367718.adobeaemcloud.com/bin/franklin.delivery/singh201/manoj-bootcamp/main"
     type: "markup"
     suffix: ".html"
